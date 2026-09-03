@@ -13,6 +13,7 @@ Head to [**Releases**](../../releases) and take one of:
 | --- | --- |
 | `Chorus-Setup-<version>.exe` | You want Chorus installed properly — Start Menu entry, desktop shortcut, and an uninstaller. Most people want this. |
 | `Chorus-<version>.exe` | You want to just run it. Nothing is installed and nothing is written outside your normal data folder. |
+| `chorus-client-<version>.jar` | Nothing, unless you know you want it. This is the Fabric mod on its own, for dropping into a `mods` folder by hand — both downloads above already carry it. |
 
 Windows x64. You do not need to install Java or Minecraft first — Chorus handles that.
 
